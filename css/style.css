@@ -1,4 +1,4 @@
- 
+
 :root {
   --bg: #170f24;
   --ink: #fff5f6;
@@ -812,4 +812,4 @@ footer {
     scroll-behavior: auto !important;
     transition-duration: .01ms !important;
   }
-}
+ }
